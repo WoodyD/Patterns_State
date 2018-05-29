@@ -1,0 +1,7 @@
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_State\Patterns_State\bin\Debug\Patterns_State.exe.config
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_State\Patterns_State\bin\Debug\Patterns_State.exe
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_State\Patterns_State\bin\Debug\Patterns_State.pdb
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_State\Patterns_State\obj\Debug\Patterns_State.csprojResolveAssemblyReference.cache
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_State\Patterns_State\obj\Debug\Patterns_State.csproj.CoreCompileInputs.cache
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_State\Patterns_State\obj\Debug\Patterns_State.exe
+c:\users\woody\documents\visual studio 2017\Projects\Patterns_State\Patterns_State\obj\Debug\Patterns_State.pdb
